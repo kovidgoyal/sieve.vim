@@ -23,7 +23,7 @@ syn case ignore
 syn keyword sieveStatement	false fileinto not size true setflag
 syn keyword sieveStatement	allof anyof exists 
 syn keyword sieveIdentifier	header address envelope 
-syn keyword sieveStatement	keep discard redirect reject
+syn keyword sieveStatement	keep discard redirect reject execute
 syn keyword sieveStatement	require stop
 syn keyword sieveConditional	if elseif else frontis
 
